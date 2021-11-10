@@ -1,4 +1,6 @@
 ### Hi there 👋
+Im Aaron from Mexico, and currently im a junior front-end Developer 👨‍💻, also I have knowledge on UI Design 🖌. I really like to learn new things to create awesome proyects like blogs or cool websites. Here is my twiter:https://twitter.com/AaronBarreto_ 🐤
+
 
 <!--
 **AaronBarreto/aaronbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
