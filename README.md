@@ -1,3 +1,5 @@
+![alt text](https://github.com/AaronBarreto/AaronBarreto/blob/main/secondbanner.png)
+
 <h2> Im Aaron - Soy Aaron </h2>
 
 Currently im a junior front-end Developer 👨‍💻, also have knowledge on UI Design 🖌. I really like to learn new things to create awesome proyects like blogs or cool websites. Here is my twitter:https://twitter.com/AaronBarreto_ 🐤
