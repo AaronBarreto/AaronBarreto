@@ -1,6 +1,11 @@
-<h2> Im Aaron </h2>
+<h2> Im Aaron - Soy Aaron </h2>
 
-Currently im a junior front-end Developer 👨‍💻, also have knowledge on UI Design 🖌. I really like to learn new things to create awesome proyects like blogs or cool websites. Here is my twiter:https://twitter.com/AaronBarreto_ 🐤
+Currently im a junior front-end Developer 👨‍💻, also have knowledge on UI Design 🖌. I really like to learn new things to create awesome proyects like blogs or cool websites. Here is my twitter:https://twitter.com/AaronBarreto_ 🐤
+
+
+Actualmente soy un Desarrollador Web Junior enfocado en front-end, ademas tengo conocimientos en Diseño de interfaces de usuario🖌.
+Me gusta mucho aprender cosas nuevas para crear proyectos asombrosos como blogs o alguna pagina web cool.
+Aqui esta mi twitter: https://twitter.com/AaronBarreto_ 🐤
 
 ![alt text](https://github.com/AaronBarreto/AaronBarreto/blob/main/banner.png)
 
