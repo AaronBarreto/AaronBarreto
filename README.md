@@ -6,6 +6,7 @@
 
 Currently im a junior front-end developer 👨‍💻, also have knowledge on UI design 🖌. I really like to learn new things to create awesome proyects like blogs or cool websites. 
 
+
 -ESPAÑOL
 
 Actualmente soy un desarrollador web Junior enfocado en front-end, ademas tengo conocimientos en diseño de interfaces de usuario🖌.
@@ -17,6 +18,7 @@ Me gusta mucho aprender cosas nuevas para crear proyectos asombrosos como blogs 
 -ENGLISH
 
 Recently I've been working on my personal blog where I'll post some of my thoughts, and knowledge I've learned in books, internet, conversations, experences etc.
+
 
 -ESPAÑOL
 
