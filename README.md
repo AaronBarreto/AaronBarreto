@@ -1,7 +1,7 @@
 ### Hi there 👋
-![alt text](https://github.com/AaronBarreto/AaronBarreto/blob/main/secondbanner.png)
 
-Im Aaron from Mexico, and currently im a junior front-end Developer 👨‍💻, also I have knowledge on UI Design 🖌. I really like to learn new things to create awesome proyects like blogs or cool websites. Here is my twiter:https://twitter.com/AaronBarreto_ 🐤
+###Im Aaron
+Currently im a junior front-end Developer 👨‍💻, also have knowledge on UI Design 🖌. I really like to learn new things to create awesome proyects like blogs or cool websites. Here is my twiter:https://twitter.com/AaronBarreto_ 🐤
 
 ![alt text](https://github.com/AaronBarreto/AaronBarreto/blob/main/banner.png)
 
