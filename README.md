@@ -15,7 +15,7 @@ Recently I've been working on my personal blog where I'll post some of my though
 
 Recientemente e estado trabajado en mi blog persona donde subire algunos post de mis pensamientos y cosas que e aprendido en libros, internet, conversaciones, experiencias, etc.
 
-
+![alt text](https://github.com/AaronBarreto/AaronBarreto/blob/main/GifBlog-min.gif)
 
 
 <!--
